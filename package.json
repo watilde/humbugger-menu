@@ -1,0 +1,22 @@
+{
+  "name": "humbugger-menu",
+  "version": "0.0.1",
+  "description": "🍔  menu for you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/watilde/humbugger-menu.git"
+  },
+  "keywords": [
+    "Humbugger"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/humbugger-menu/issues"
+  },
+  "homepage": "https://github.com/watilde/humbugger-menu#readme"
+}
